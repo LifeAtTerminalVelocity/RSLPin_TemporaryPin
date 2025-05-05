@@ -14,6 +14,14 @@ The idea is to take a straight RSL Pin (Currently being made by CWH in Italy and
 
 This repository will host the STL files needed to print the pin retention and rigidity plastic. This will also serve as to document the process of edits to this project.
 
+The latest STL files:
+  v7.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v7.5%20Long.stl">Latest 7.x</a>
+  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v9.4.stl">Latest 9.x</a>
+
+The latest 3MF files:
+  v7.x
+  v9.x
+
 Versions 1-5:
 These are poorly revision managed initial itterations to fit the pin into the plastic holder. This version is meant to be used with 1" (2.54cm) Type 4 webbing. 
 
