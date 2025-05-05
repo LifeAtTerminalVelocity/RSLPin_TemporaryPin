@@ -22,7 +22,7 @@ These are poorly revision managed initial itterations to fit the pin into the pl
 Version 6:
 This is the first iteration of the pin holder that fits well. The initial 3 prototypes were made with this version. This version is meant to be used with 1" (2.54cm) Type 4 webbing.
 
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/v6.jpeg" alt="">
+<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v6.jpeg" alt="">
 
 Version 6.1:
 Similar to version 6 but this version is meant to be used with 1.5" (3.81cm) Type 4 webbing.
@@ -55,7 +55,7 @@ Attemps to make the RSL Pin Holder a clamshell design. This fails misserably. I 
 Version 9.x:
 Together with v7.x this will be the standard length (1" or 2.54cm) version of the RSL Pin Holder. Going forward this version will be the "Long" version of the RSL Pin Holder. Revisions within it will be documented under this block.
 
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/v9.1.jpeg" alt="">
+<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v9.1.jpeg" alt="">
 
 <img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/v9_in_type4.jpeg" alt="">
 
