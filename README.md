@@ -63,7 +63,11 @@ Together with v7.x this will be the standard length (1" or 2.54cm) version of th
 Acknowledgements:
 
 Thanks to the riggers that are testing the prototypes of these TemporaryReserve Pins. Your feedback and assistance means a lot to me.
+
 Andi Paulsen
+
 Sergio Revuelta
+
 Madisen Boyer
+
 Hunter Amundson.
