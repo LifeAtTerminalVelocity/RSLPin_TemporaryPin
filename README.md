@@ -5,7 +5,7 @@ This project is a Parachute Reserve packing temporary pin, being made out of an 
 The idea for this project started at the Parachute Industry Association (PIA) Symposium of 2025 held in Daytona Beach, Florida, USA.
 
 A common problem that parachute riggers have is that the temporary pins that they employ to close the reserve pack tray are:
-1) Expensive (relative to their expexted lifetime).
+1) Expensive (relative to their expected lifetime).
 2) Soft, easy to deform.
 3) Deformations turn into nicks or gouges on the pin that damage the reserve closing loop.
 4) Have to be replaced frequently.
