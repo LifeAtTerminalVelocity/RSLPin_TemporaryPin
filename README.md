@@ -12,7 +12,7 @@ A common problem that parachute riggers have is that the temporary pins that the
 
 The idea is to take a straight RSL Pin (Currently being made by CWH in Italy and sold world wide through their regional subsidiaries), encase said pin in a 3d printed plastic form to lend it rigidity and structure, and then having that encased in Type 3 webbing as a means to handle it and track it.
 
-This repository will host the STL files needed to print the pin retention and rigidity plastic. This will also serve as to document the process of edits to this project.
+This repository will host the STL files needed to print the pin retention and rigidity plastic. This will also serve as to document the process of edits to this project. Keep in mind that in order to have greater strength and rigidity I have printed these using ASA and 100% infill. I have tried making versions that use lesser infill and they tend to fail after some time in the center stud that carries the load of the pin eye.
 
 The latest STL files:
   
