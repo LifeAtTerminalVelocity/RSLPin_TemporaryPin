@@ -18,13 +18,13 @@ The latest STL files:
   
   v7.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v7.5%20Long.stl">Latest 7.x STL</a>
   
-  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v9.4.stl">Latest 9.x STL</a>
+  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v9.6%20Long.stl)">Latest 9.x STL</a>
 
 The latest 3MF files:
   
   v7.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL%20Pin%20Holder%20-%20v7.5%20Long.3mf">Latest 7.x 3MF</a>
   
-  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL%20Pin%20Holder%20-%20v9.5.3mf">Latest 9.x 3MF</a>
+  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL%20Pin%20Holder%20-%20v9.6%20Long.3mf">Latest 9.x 3MF</a>
 
 Versions 1-5:
 
