@@ -20,6 +20,8 @@ The latest STL files:
   
   v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v9.6%20Long.stl)">Latest 9.x STL</a>
 
+  Straight Pin Short v2.1 <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/StraightPin_v2.1_Short.stl"> Latest Stright Pin 2.x Short STL</a>
+
 The latest 3MF files:
   
   v7.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL%20Pin%20Holder%20-%20v7.5%20Long.3mf">Latest 7.x 3MF</a>
