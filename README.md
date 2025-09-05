@@ -16,74 +16,22 @@ This repository will host the STL files needed to print the pin retention and ri
 
 The latest STL files:
   
-  v7.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v7.5%20Long.stl">Latest 7.x STL</a>
   
-  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL%20Pin%20Holder%20-%20v9.6%20Long.stl)">Latest 9.x STL</a>
+  v10.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL_Pin_v10.2_Long.stl">Latest 10.x STL Long</a>
+
+  v10.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL_Pin_v10.2_Regular.stl">Latest 10.x STL Regular</a>
+  
+  v10.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/RSL_Pin_v10.2_Short.stl">Latest 10.x STL Short</a>
+
 
   Straight Pin Short v2.1 <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/STL/StraightPin_v2.1_Short.stl"> Latest Stright Pin 2.x Short STL</a>
 
 The latest 3MF files:
   
-  v7.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL%20Pin%20Holder%20-%20v7.5%20Long.3mf">Latest 7.x 3MF</a>
-  
-  v9.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL%20Pin%20Holder%20-%20v9.6%20Long.3mf">Latest 9.x 3MF</a>
+  v10.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL_Pin_v10.2_Long.3mf">Latest 10.x 3MF Long</a>
 
-Versions 1-5:
+  v10.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL_Pin_v10.2_Regular.3mf">Latest 10.x 3MF Regular</a>
 
-These are poorly revision managed initial itterations to fit the pin into the plastic holder. This version is meant to be used with 1" (2.54cm) Type 4 webbing. 
+  v10.x - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/3MF/RSL_Pin_v10.2_Short.3mf">Latest 10.x 3MF Short</a>
 
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v1-5.jpeg" alt="">
-
-Version 6:
-
-This is the first iteration of the pin holder that fits well. The initial 3 prototypes were made with this version. This version is meant to be used with 1" (2.54cm) Type 4 webbing.
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v6.jpeg" alt="">
-
-Version 6.1:
-Similar to version 6 but this version is meant to be used with 1.5" (3.81cm) Type 4 webbing.
-
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v6.1.jpeg" alt="">
-
-Version 6.2:
-A revision of v 6.1 incorporating feedback from the riggers that tested v6 and v6.1. It features cut off corners.
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v6.2.jpeg" alt="">
-
-Version 6.3
-A revision of v 6.2 incorporating feedback from the riggers that tested v6.2. It features thru holes for tacking down the pin.
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v6.3.jpeg" alt="">
-
-Version 7.x:
-A revision of v6.2 with a longer length (3" or 7.6cm) to allow for better handling of the pin. Going forward this version will be the "Long" version of the RSL Pin Holder. Revisions within it will be documented under this block.
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v7.3.jpeg" alt="">
-
-Version 8.x:
-Attemps to make the RSL Pin Holder a clamshell design. This fails misserably. I might try this again in the future with a different approach to the clamshell but right now the focus will be v7.x and v9.x
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v8_1.jpeg" alt="">
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v8_2.jpeg" alt="">
-
-Version 9.x:
-Together with v7.x this will be the standard length (1" or 2.54cm) version of the RSL Pin Holder. Going forward this version will be the "Long" version of the RSL Pin Holder. Revisions within it will be documented under this block.
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/img/v9.1.jpeg" alt="">
-
-<img src="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/img/v9_in_type4.jpeg" alt="">
-
-
-Acknowledgements:
-
-Thanks to the riggers that are testing the prototypes of these TemporaryReserve Pins. Your feedback and assistance means a lot to me.
-
-Andi Paulsen
-
-Sergio Revuelta
-
-Madisen Boyer
-
-Hunter Amundson.
+The history of the project can be read here - <a href="https://github.com/LifeAtTerminalVelocity/RSLPin_TemporaryPin/blob/main/History.md"> History.md </a>
